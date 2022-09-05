@@ -1,0 +1,4 @@
+#Mon Sep 05 16:41:45 BDT 2022
+base.0=G\:\\\#\#flutter22prac\\getx\\Rorty.Flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
